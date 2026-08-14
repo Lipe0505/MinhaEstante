@@ -1,1 +1,2 @@
-# MinhaEstante
+# MinhaEstante - TRABALHO DE IMERSÃO PROFISSIONAL: PROJETO DE SOFTWARE
+André Felipe dos Santos  23028141-2
